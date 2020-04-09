@@ -1,1 +1,1 @@
-project="dzb-t-0004711-haris-01"
+project="dz-playground-4711"
